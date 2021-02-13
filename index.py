@@ -7,5 +7,15 @@ def multiply(a, b):
 
     return result
 
+def add(a, b):
+    return a + b
+
+
 result = multiply(1,2)
 print(result)
+
+result_add = add(1,2)
+print(result_add)
+
+
+
