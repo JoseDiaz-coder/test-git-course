@@ -11,10 +11,10 @@ def add(a, b):
     return a + b
 
 
-result = multiply(1,2)
+result = multiply(2,3)
 print(result)
 
-result_add = add(1,2)
+result_add = add(4,5)
 print(result_add)
 
 
