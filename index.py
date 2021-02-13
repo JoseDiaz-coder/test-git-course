@@ -7,21 +7,14 @@ def multiply(a, b):
 
     return result
 
-def add(a, b):
-    return a + b
-
-def subtraction(a, b):
-    return a - b
-
-
 result = multiply(2,3)
 print(result)
 
-result_add = add(4,5)
-print(result_add)
+result_add = lambda a, b: a + b
+print(result_add(2,3))
 
-result_subs = subtraction(2,3)
-print(result_subs)
+result_subs = lambda a, b: a - b
+print(result_subs(2,3))
 
 
 
