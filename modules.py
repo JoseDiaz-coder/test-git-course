@@ -4,3 +4,6 @@ def hello():
 
 def run():
     print("run run no se cansa mi trokita")
+
+def walk():
+    print("i walked 10 miles yesterday")
