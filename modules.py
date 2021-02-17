@@ -7,9 +7,7 @@ def run():
 def walk():
     print("yesterday i walked 10 miles and I almost died")
 
-
 def rosario():
-
     familyTogether = True
 
     if familyTogether: return True
