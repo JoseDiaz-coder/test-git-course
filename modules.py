@@ -7,8 +7,3 @@ def run():
 def walk():
     print("i walked 10 miles yesterday")
 
-def rosario():
-    familyTogether = True
-
-    if familyTogether: return True
-    else: return False

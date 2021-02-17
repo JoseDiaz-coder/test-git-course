@@ -13,6 +13,3 @@ def prints():
 
 prints()
 
-resar = rosario()
-
-print("se resa el rosario en familia") if resar else print("se resa solo")
